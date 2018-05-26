@@ -8,6 +8,7 @@
 
 ## Description of Files and Directories
 
+Mutual Fund Explorer changes
 
 ## Issues
 
